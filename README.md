@@ -7,7 +7,7 @@ Add ember-boostrap to your rails/ember project :)
 Gemfile
 
 ```ruby
-gem 'ember-boostrap-rails'
+gem 'ember-bootstrap-rails'
 ```
 
 And then `bundle` :)
