@@ -15,7 +15,7 @@ And then `bundle` :)
 In your js mainfest file:
 
 ```javascript
-//= require ember-bootstrap-rails/all
+//= require ember-bootstrap/all
 ````
 
 Enjoy!
