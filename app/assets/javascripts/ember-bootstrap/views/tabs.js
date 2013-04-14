@@ -1,4 +1,5 @@
 var Bootstrap = window.Bootstrap;
+
 Bootstrap.Tabs = Ember.CollectionView.extend({
   classNames: ['nav', 'nav-tabs'],
   classNameBindings: ['isStacked:nav-stacked'],
@@ -6,3 +7,5 @@ Bootstrap.Tabs = Ember.CollectionView.extend({
   itemViewClass: Bootstrap.PillItem,
   selection: null
 });
+
+

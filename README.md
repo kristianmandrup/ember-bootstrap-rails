@@ -1,4 +1,4 @@
-= Ember Bootstrap Rails
+# Ember Bootstrap Rails
 
 Add ember-boostrap to your rails/ember project :)
 
