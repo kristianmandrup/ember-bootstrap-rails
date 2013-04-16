@@ -1,5 +1,3 @@
-//= require ./pill_item
-
 var Bootstrap = window.Bootstrap;
 Bootstrap.NavList = Ember.CollectionView.extend({
   classNames: ['nav', 'nav-list'],
