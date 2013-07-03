@@ -22,7 +22,7 @@ Enjoy!
 
 ## Version
 
-Current version based on https://github.com/emberjs-addons/ember-bootstrap/commit/90ebf13c87dbd6ec3046b73bcca2fd195557714a
+Current version based on https://github.com/emberjs-addons/ember-bootstrap/commit/2456eaac9a08e823b3030decd193906fdf92fc17
 
 Please send pull request to update to a later version ;)
 
